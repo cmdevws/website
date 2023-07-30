@@ -1,0 +1,28 @@
+
+body{
+    background-color: pink;
+}
+.exampleone {
+    color: black;
+    font-size: medium;
+    background-color: aquamarine;
+  }
+  .artefacto {
+    background-color: coral;
+    display: inline-block;
+    font-size: x-large;
+    font-weight: bold;  /* negrilla */
+    text-align: left;
+  }
+  .Titulo {
+    font-size: x-large;
+    font-weight: bold;  /* negrilla */
+    text-align: center;
+  }
+  .texto{
+    background-color: aqua;
+    display: inline-block;
+    font-size: medium;
+    font-weight: lighter;
+  }
+  
